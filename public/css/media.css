@@ -1,0 +1,25 @@
+@media only screen and (max-width: 500px) {
+  body {
+    background-color: rgba(222, 129, 129, 0.637);
+  }
+  .width-60vw {
+    /* width: 340px; */
+    width: 70vw;
+  }
+  .desing {
+    font-size: 25px;
+  }
+  .display {
+    font-size: 25px;
+    height: 100%;
+  }
+  .left-margin {
+    padding-left: 2vw;
+  }
+}
+@media only screen and (max-width: 4400px) {
+  .footer-back {
+
+    font-size: 4vw;
+  }
+}

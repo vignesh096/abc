@@ -1,0 +1,21 @@
+#output {
+  grid-column-start: 4;
+  grid-column-end: 6;
+}
+#form-input {
+  margin: 0%;
+  padding: 0%;
+
+  grid-column-start: 1;
+  grid-column-end: 4;
+  background-color: rgb(221, 0, 255);
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  top: auto;
+  background-color: black;
+  margin: 0;
+  padding: 0%;
+  color: white;
+}
